@@ -66,5 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 We would like to thank Andy's Brain Book for providing accessible and detailed tutorials on fMRI data analysis, which served as the foundation for this project.
 
 ---
-
-Feel free to customize the README as you see fit!
